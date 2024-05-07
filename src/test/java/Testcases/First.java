@@ -1,10 +1,10 @@
-package Locatore;
+package Testcases;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.WebDriver;
 
-public class Testcase01 {
+public class First {
 
 	public static void main (String[] args) {
 		
